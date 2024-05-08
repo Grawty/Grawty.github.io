@@ -15,6 +15,10 @@ The codebase consists of the following files:
 - `style.css`: Stylesheets for the website layout and design.
 - `script.js` (optional): JavaScript file for any interactive features.
 
+## Changelog
+- 🥳 Fork button added. (8.05.2024)
+- 🤔 A warning screen has been added until the mobile device functions correctly. (8.05.2024)
+
 ## Usage
 
 1. Go to grawty.github.io and click on the 'create your linksite' button.
