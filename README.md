@@ -2,12 +2,12 @@
 
 This is a basic linksite showcasing contact details and social media profiles.
 
-## Features
+## Features ✨
 
 - Displays profile picture, contact information (email), and social media links (Github, Instagram, Youtube...).
 - Uses Font Awesome icons for social media links.
 
-## Code Structure
+## Code Structure 🎈
 
 The codebase consists of the following files:
 
@@ -15,11 +15,17 @@ The codebase consists of the following files:
 - `style.css`: Stylesheets for the website layout and design.
 - `script.js` (optional): JavaScript file for any interactive features.
 
-## Changelog
+## Changelog 
 - 🥳 Fork button added. (8.05.2024)
 - 🤔 A warning screen has been added until the mobile device functions correctly. (8.05.2024)
 
-## Usage
+## Maybe soon.. 🔒
+- Fully customizable codes (maybe with an interface)
+- Texts explaining what each code does
+- Spotify-like screen (playlist etc.)
+- Font styles
+
+## Usage 🛠️
 
 1. Go to grawty.github.io and click on the 'create your linksite' button.
 2. Edit the HTML content (text, links, images) in `index.html` to match your information.
