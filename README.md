@@ -18,12 +18,18 @@ The codebase consists of the following files:
 ## Changelog 
 - 🥳 Fork button added. (8.05.2024)
 - 🤔 A warning screen has been added until the mobile device functions correctly. (8.05.2024)
+- 😍 Added font styles. (16.05.2024)
+- 😶‍🌫️ 404.html (16.05.2024)
+- 📱 Warning screen added to phones. (16.05.2024)
+- 🙌 Added comments for script.js (16.05.2024)
+- 🔗 The embed that will appear when the link is shared has been added. (16.05.2024)
+- 🙊 A few easter egg style codes have been added. (16.05.2024)
 
 ## Maybe soon.. 🔒
 - Fully customizable codes (maybe with an interface)
 - Texts explaining what each code does
 - Spotify-like screen (playlist etc.)
-- Font styles
+- ~~Font styles~~
 
 ## Usage 🛠️
 
